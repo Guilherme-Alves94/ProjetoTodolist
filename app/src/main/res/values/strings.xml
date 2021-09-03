@@ -4,4 +4,6 @@
     <string name="label_data">Data</string>
     <string name="label_hora">Hora</string>
     <string name="label_cancel">Cancelar</string>
+    <string name="label_tasks">Tarefas</string>
+    <string name="label_description">Nova tarefa</string>
 </resources>
